@@ -1,0 +1,7 @@
+scoreboard-title: "<#d991ff:#9198ff>&l서버 이름"
+scoreboard-lines:
+  - ""
+  - "&f닉네임: &e%player_name%"
+  - "&f체력: &c%player_health_rounded%&7/&c%player_max_health_rounded%"
+  - ""
+  - "&awww.domain.com"

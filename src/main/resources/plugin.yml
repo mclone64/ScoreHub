@@ -1,0 +1,8 @@
+name: ScoreHub
+main: dev.lone64.scorehub.ScoreHub
+author: lone64
+
+version: 1.0.0
+api-version: '1.17'
+
+depend: [PlaceholderAPI]
