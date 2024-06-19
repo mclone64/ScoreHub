@@ -1,4 +1,4 @@
-<div align="center">  
-  ![-0001-export](https://i.imgur.com/RniSbqj.png)  
+<div align="center">
+  ![logo](https://i.imgur.com/RniSbqj.png)
   Welcome to ScoreHub!
 </div>
